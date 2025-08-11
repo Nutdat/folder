@@ -1,5 +1,5 @@
 ## Folder Package 
----
+
 Go package provides easy and persistent folder management for your projects. It automatically creates, remembers, and restores folders inside a hidden `.Nutdat` base directory. Folder metadata is cached in a JSON file, ensuring your folder structure survives restarts. 
 
 
