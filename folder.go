@@ -6,7 +6,7 @@ import (
 )
 
 func init() {
-	logger.LogInit("INIT", "Foldermodul successfully started")
+	logger.LogInit("Folder")
 	core.CheckAndRestoreFolders()
 
 }

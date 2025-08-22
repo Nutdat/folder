@@ -1,2 +1,4 @@
 github.com/Nutdat/logger v0.0.0-20250811100854-5be6ebb6aeab h1:DCbBdGIibvX80/W7g8dYubFdlk9TU32GnOu5SdzFpwY=
 github.com/Nutdat/logger v0.0.0-20250811100854-5be6ebb6aeab/go.mod h1:DDsFjW5sUWtT2H3BGzar/eMFg4DA3o8gMhqDEcnUTuA=
+github.com/Nutdat/logger v0.0.2 h1:/DHAoJysAlW6cDlb1cd9E2/5cO/Abecg7A3NqBPpXI4=
+github.com/Nutdat/logger v0.0.2/go.mod h1:DDsFjW5sUWtT2H3BGzar/eMFg4DA3o8gMhqDEcnUTuA=
